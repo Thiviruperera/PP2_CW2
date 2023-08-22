@@ -1,0 +1,40 @@
+----Summery----
+
+Length of the queue:7
+Minimum Waiting:8s
+Maximum Waiting:14s
+Average Waiting:11.0s
+
+----End of Summary----
+
+----Passenger Details----
+
+Passenger Name(1): Emily Hitz
+Waiting time: 11
+Seat No: 1
+
+Passenger Name(2): Craig Medlin
+Waiting time: 9
+Seat No: 2
+
+Passenger Name(3): Raye Shorts
+Waiting time: 13
+Seat No: 3
+
+Passenger Name(4): Lovetta Renninger
+Waiting time: 14
+Seat No: 4
+
+Passenger Name(5): Teodora Stalling
+Waiting time: 9
+Seat No: 5
+
+Passenger Name(6): Johnna Southerland
+Waiting time: 8
+Seat No: 6
+
+Passenger Name(7): Debbie Fore
+Waiting time: 13
+Seat No: 7
+
+
